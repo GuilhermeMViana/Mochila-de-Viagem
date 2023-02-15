@@ -5,7 +5,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img alt="projeto mochila de viagem" src="preview.jpg" width="100%">
+  <img alt="projeto mochila de viagem" src="preview.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
